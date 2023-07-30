@@ -37,3 +37,10 @@ img {
 p {
     text-align: center
 }
+
+iframe {
+    width: 80%;
+    height: 45vw;
+    margin: auto;
+    display: block;
+}
